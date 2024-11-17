@@ -64,7 +64,7 @@ export const faqData = [
         education, skills, qualities, and accomplishments. Its used to showcase
         your qualifications to potential employers and helps you stand out. It
         tells employers why you deserve a job interview in one or two powerful
-        pages.{" "}
+        pages.
         <a
           target="_blank"
           rel="noopener noreferrer"
@@ -79,12 +79,12 @@ export const faqData = [
     question: "What is the difference between a CV and a resume?",
     answer: (
       <>
-        In the U.S. and elsewhere around the world, the terms "CV" and "resume"
+        In the U.S. and elsewhere around the world, the terms 'CV' and 'resume'
         are often used in the same way. However, there are some differences. A
         resume is typically shorter, highlighting relevant skills and experience
         for a specific job. A CV (curriculum vitae) is more detailed, focusing
         on your entire career. For most U.S. job applications, a resume is the
-        preferred format.{" "}
+        preferred format.
         <a
           target="_blank"
           rel="noopener noreferrer"
@@ -105,7 +105,7 @@ export const faqData = [
         finance or law, stick to a clean, professional layout. Ensure the
         template is easy to read, highlights your strengths, and aligns with
         your experience level. Avoid overloading it with too many graphics or
-        colors that could distract from your qualifications.{" "}
+        colors that could distract from your qualifications.
         <a
           target="_blank"
           rel="noopener noreferrer"
@@ -125,7 +125,7 @@ export const faqData = [
         jobs. Older jobs may be summarized briefly or left out if they aren t
         relevant to the position you re applying for. The goal is to highlight
         your most valuable skills and accomplishments without overwhelming the
-        reader by making your resume too long.{" "}
+        reader by making your resume too long.
         <a
           target="_blank"
           rel="noopener noreferrer"
@@ -146,7 +146,7 @@ export const faqData = [
         simple, clean format without complex designs or graphics, include
         relevant keywords from the job description, and use standard fonts.
         Avoid tables, images, or unusual file formats, and save your resume as a
-        .docx or PDF to ensure compatibility.{" "}
+        .docx or PDF to ensure compatibility.
         <a
           target="_blank"
           rel="noopener noreferrer"
@@ -165,7 +165,7 @@ export const faqData = [
         download certain resumes in the .docx file and easily upload them to
         Google Drive, where you can open and edit them in Google Docs. Both
         .docx and PDF formats are widely accepted for job applications. View how
-        to download in various formats in the resume builder.{" "}
+        to download in various formats in the resume builder.
         <a
           target="_blank"
           rel="noopener noreferrer"
@@ -188,7 +188,7 @@ export const faqData = [
         only as strong as your weakest link. The free features are a great
         starting point, but if you re not getting as many interviews as you
         would like, perhaps its time to make a small investment in your future
-        career.{" "}
+        career.
         <a
           target="_blank"
           rel="noopener noreferrer"
@@ -212,7 +212,7 @@ export const faqData = [
         scratch; just tweak key sections to match the job description. With our
         resume builder, you can easily duplicate existing resumes, paste the new
         job listing link, and receive tailored advice to help you update your
-        resume to match the specific job requirements.{" "}
+        resume to match the specific job requirements.
         <a
           target="_blank"
           rel="noopener noreferrer"
@@ -235,7 +235,7 @@ export const faqData = [
         recruiters want to see. Secondly (and this is a big one, your resume is
         just the start. With every resume, you get free access to more than 18
         powerful career tools like job search, interview preparation, and salary
-        analysis.{" "}
+        analysis.
         <a
           target="_blank"
           rel="noopener noreferrer"

@@ -1,17 +1,10 @@
 import type { Metadata } from "next";
-import localFont from "next/font/local";
+import { Cairo } from "next/font/google";
 import "./globals.css";
-
-const geistSans = localFont({
-  src: "./fonts/GeistVF.woff",
-  variable: "--font-geist-sans",
-  weight: "100 900",
-});
-const geistMono = localFont({
-  src: "./fonts/GeistMonoVF.woff",
-  variable: "--font-geist-mono",
-  weight: "100 900",
-});
+import Footer from "./Section/Footer";
+import Navbar from "./Section/Navbar";
+import { ThemeProvider } from "@/components/ui/theme-provider";
+const cairo = Cairo({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -24,12 +17,23 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
-      </body>
-    </html>
+    <>
+      <html lang="en">
+        <body className={`${cairo.className} dark:bg-black  antialiased `}>
+          <ThemeProvider
+            attribute="class"
+            defaultTheme="system"
+            enableSystem
+            disableTransitionOnChange
+          >
+            <Navbar />
+            <div className=" max-w-screen-xl px-4 md:px-6  py-4 md:py-2  mx-auto ">
+              <div className="container mx-auto">{children}</div>
+            </div>
+            <Footer />
+          </ThemeProvider>
+        </body>
+      </html>
+    </>
   );
 }

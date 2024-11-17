@@ -3,8 +3,6 @@ import Link from "next/link";
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Button } from "@/components/ui/button";
-import Image from "next/image";
-import logo from "../img/nav/images1 (10).png";
 import { ModeToggle } from "@/components/ui/ModeToggle";
 export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);

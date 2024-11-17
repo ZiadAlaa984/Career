@@ -27,7 +27,7 @@ export const featuresData = [
   {
     title: "Automatic summary generator",
     description:
-      "Create a powerful resume profile or cover letter in one click. Writer’s block is no longer an obstacle. Try for free!",
+      "Create a powerful resume profile or cover letter in one click. Writer block is no longer an obstacle. Try for free!",
   },
   {
     title: "Approved templates",
@@ -61,7 +61,7 @@ export const faqData = [
     answer: (
       <>
         A resume is a concise document that summarizes your work experience,
-        education, skills, qualities, and accomplishments. It’s used to showcase
+        education, skills, qualities, and accomplishments. Its used to showcase
         your qualifications to potential employers and helps you stand out. It
         tells employers why you deserve a job interview in one or two powerful
         pages.{" "}
@@ -99,8 +99,8 @@ export const faqData = [
     question: "How do I choose the right resume template?",
     answer: (
       <>
-        To choose the right resume template, consider the job you're applying
-        for and your industry. If you're in a creative field, a more visually
+        To choose the right resume template, consider the job you re applying
+        for and your industry. If you re in a creative field, a more visually
         appealing template might be best. For traditional industries like
         finance or law, stick to a clean, professional layout. Ensure the
         template is easy to read, highlights your strengths, and aligns with
@@ -122,8 +122,8 @@ export const faqData = [
       <>
         A resume should typically go back 10-15 years, focusing on the most
         recent and relevant experience, and not necessarily all your previous
-        jobs. Older jobs may be summarized briefly or left out if they aren't
-        relevant to the position you're applying for. The goal is to highlight
+        jobs. Older jobs may be summarized briefly or left out if they aren t
+        relevant to the position you re applying for. The goal is to highlight
         your most valuable skills and accomplishments without overwhelming the
         reader by making your resume too long.{" "}
         <a
@@ -161,7 +161,7 @@ export const faqData = [
     question: "What resume file format can I download in?",
     answer: (
       <>
-        While you can’t download it directly in Google Docs format, you can
+        While you cant download it directly in Google Docs format, you can
         download certain resumes in the .docx file and easily upload them to
         Google Drive, where you can open and edit them in Google Docs. Both
         .docx and PDF formats are widely accepted for job applications. View how
@@ -181,13 +181,13 @@ export const faqData = [
     answer: (
       <>
         Yes. Paying for the resume builder offers several advantages. Our free
-        resume builder comes with the Vancouver template, and it's a good start
+        resume builder comes with the Vancouver template, and it s a good start
         if you have zero budget. However, paid features unlock professional
         templates, advanced customization, and AI-powered suggestions. All of
         these increase your chances of getting hired. Your job application is
         only as strong as your weakest link. The free features are a great
-        starting point, but if you're not getting as many interviews as you
-        would like, perhaps it’s time to make a small investment in your future
+        starting point, but if you re not getting as many interviews as you
+        would like, perhaps its time to make a small investment in your future
         career.{" "}
         <a
           target="_blank"
@@ -203,12 +203,12 @@ export const faqData = [
     question: "Should I make a different resume for every job application?",
     answer: (
       <>
-        Yes, it's essential to tailor your resume for every job application.
+        Yes, it s essential to tailor your resume for every job application.
         Tailored resumes are directly relevant to the job description. This
         impresses recruiters. Customize your resume by highlighting the skills,
         experiences, and accomplishments most relevant to the specific job. This
-        increases your chances of standing out and showing employers you're a
-        great fit for their position. However, you don't need to start from
+        increases your chances of standing out and showing employers you re a
+        great fit for their position. However, you don t need to start from
         scratch; just tweak key sections to match the job description. With our
         resume builder, you can easily duplicate existing resumes, paste the new
         job listing link, and receive tailored advice to help you update your
@@ -227,11 +227,11 @@ export const faqData = [
     question: "What makes resume.io the best resume builder?",
     answer: (
       <>
-        Resume.io stands out for two reasons. Firstly, we’re a market leader.
-        We’ve been refining the builder for more than 10 years; it’s fast,
+        Resume.io stands out for two reasons. Firstly, were a market leader.
+        Weve been refining the builder for more than 10 years; its fast,
         effective, and creates strong resumes that win interviews. Our AI resume
         builder makes it easy to produce mistake-free resumes that highlight
-        your strengths and align with industry standards. They’re exactly what
+        your strengths and align with industry standards. Theyre exactly what
         recruiters want to see. Secondly (and this is a big one, your resume is
         just the start. With every resume, you get free access to more than 18
         powerful career tools like job search, interview preparation, and salary
@@ -256,7 +256,7 @@ export const testimonials = [
   },
   {
     quote:
-      "To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take Arms against a Sea of troubles, And by opposing end them: to die, to sleep.",
+      "To be, or not to be, that is the question: Whether  tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take Arms against a Sea of troubles, And by opposing end them: to die, to sleep.",
     name: "William Shakespeare",
     title: "Hamlet",
   },
@@ -317,28 +317,28 @@ export const jobLinks = [
 export const testimonialsClient = [
   {
     quote:
-      "The attention to detail and innovative features have completely transformed our workflow. This is exactly what we've been looking for.",
+      "The attention to detail and innovative features have completely transformed our workflow. This is exactly what we ve been looking for.",
     name: "Sarah Chen",
     designation: "Product Manager at TechFlow",
     src: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     quote:
-      "Implementation was seamless and the results exceeded our expectations. The platform's flexibility is remarkable.",
+      "Implementation was seamless and the results exceeded our expectations. The platform s flexibility is remarkable.",
     name: "Michael Rodriguez",
     designation: "CTO at InnovateSphere",
     src: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     quote:
-      "This solution has significantly improved our team's productivity. The intuitive interface makes complex tasks simple.",
+      "This solution has significantly improved our team s productivity. The intuitive interface makes complex tasks simple.",
     name: "Emily Watson",
     designation: "Operations Director at CloudScale",
     src: "https://images.unsplash.com/photo-1623582854588-d60de57fa33f?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     quote:
-      "Outstanding support and robust features. It's rare to find a product that delivers on all its promises.",
+      "Outstanding support and robust features. It s rare to find a product that delivers on all its promises.",
     name: "James Kim",
     designation: "Engineering Lead at DataPro",
     src: "https://images.unsplash.com/photo-1636041293178-808a6762ab39?q=80&w=3464&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",

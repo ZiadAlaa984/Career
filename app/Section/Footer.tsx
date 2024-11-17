@@ -11,6 +11,7 @@ const socialLinks = [
   { id: 2, icon: <FaTiktok className="text-lg" /> },
   { id: 3, icon: <FaYoutube className="text-lg" /> },
   { id: 4, icon: <FaLinkedinIn className="text-lg" /> },
+  { id: 5, icon: <FaSpotify className="text-lg" /> },
 ];
 
 export default function Footer() {
